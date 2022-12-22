@@ -20,20 +20,21 @@ Shanghai Jiao Tong University, B.Eng. in Industrial Engineering (2016 - 2020)
 
 Research Experience
 ======
-1. Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence, with Zhiqi Zhang, Dennis Zhang, Heng Zhang, Renyu Zhang, in preparation.
+1. Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence, with Zikun Ye, Dennis Zhang, Heng Zhang, Renyu Zhang, in preparation.
 
 2. Gopalakrishnan, Mohan, Heng Zhang, and **Zhiqi Zhang**. "[Multiproduct pricing under the multinomial logit model with local network effects.](https://doi.org/10.1111/deci.12579)" Decision Sciences(2022).
 
 Conference Talks
-------
+=====
 **Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments**
  - INFORMS Annual Meeting, Indianapolis, IN, 2022 
  - POMS International Meeting, Virtual Conference, 2022
 
-Create content & metadata
+Teaching
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
+- MKT 680 A AI & Machine Learning for Business Applications, TA; FL 2022
+- SCOT 5704 Operations Management, TA; FL 2022
+- SCOT 500D Project Management, TA; FL 2022
 **Markdown generator**
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
