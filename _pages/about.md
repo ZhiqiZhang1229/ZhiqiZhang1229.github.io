@@ -22,11 +22,13 @@ Research Experience
 ======
 1. Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence, with Zhiqi Zhang, Dennis Zhang, Heng Zhang, Renyu Zhang, in preparation.
 
-2. Gopalakrishnan, Mohan, Heng Zhang, and **Zhiqi Zhang**. "[Multiproduct pricing under the multinomial logit model with local network effects.](https://doi.org/10.1111/deci.12579)"Decision Sciences(2022).
+2. Gopalakrishnan, Mohan, Heng Zhang, and **Zhiqi Zhang**. "[Multiproduct pricing under the multinomial logit model with local network effects.](https://doi.org/10.1111/deci.12579)" Decision Sciences(2022).
 
-Site-wide configuration
+Conference Talks
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments**
+ - INFORMS Annual Meeting, Indianapolis, IN, 2022 
+ - POMS International Meeting, Virtual Conference, 2022
 
 Create content & metadata
 ------
