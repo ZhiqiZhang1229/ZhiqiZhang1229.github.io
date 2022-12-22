@@ -83,11 +83,11 @@ author:
   name             : "Zhiqi Zhang(张祉淇)"
   avatar           : "profile.png"
   bio              : "PhD student at Washington University in St. Louis"
-#   location         : "Location"
+  location         : "St. Louis"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            :
+  email            : "z.zhiqi@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
