@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homw"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhiqi Zhang"
 description              : &description "personal description"
