@@ -16,7 +16,7 @@ main:
 #     url: /year-archive/
     
   - title: "CV"
-    url: https://github.com/ZhiqiZhang1229/zhiqizhang/blob/576be62767432d0a5a7303474c5efc6b7412c5e0/files/ZhiqiZhang_CV_202208.pdf
+    url: /files/ZhiqiZhang_CV_202208.pdf
 #     https://github.com/ZhiqiZhang1229/zhiqizhang/blob/576be62767432d0a5a7303474c5efc6b7412c5e0/files/ZhiqiZhang_CV_202208.pdf
 #   - title: "Guide"
 #     url: /markdown/
