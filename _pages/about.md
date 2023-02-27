@@ -22,7 +22,7 @@ Research Experience
 ======
 1. Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence, with Zikun Ye, Dennis Zhang, Heng Zhang, Renyu Zhang, in preparation.
 
-2. [Multiproduct pricing under the multinomial logit model with local network effects.](https://doi.org/10.1111/deci.12579), with Gopalakrishnan Mohan and Heng Zhang,Decision Sciences(2022).
+2. [Multiproduct pricing under the multinomial logit model with local network effects](https://doi.org/10.1111/deci.12579), with Gopalakrishnan Mohan and Heng Zhang,Decision Sciences(2022).
 
 Conference Talks
 =====
