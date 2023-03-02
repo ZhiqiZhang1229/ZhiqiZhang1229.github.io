@@ -20,7 +20,7 @@ Education
 
 Research Experience
 ======
-1. Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence, with Zikun Ye, Dennis Zhang, Heng Zhang, Renyu Zhang, in preparation.
+1. [Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375327), with Zikun Ye, Dennis Zhang, Heng Zhang, Renyu Zhang,submitted.
 
 Conference Talks
 =====
