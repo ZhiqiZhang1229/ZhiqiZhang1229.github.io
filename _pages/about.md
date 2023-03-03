@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhiqi Zhang"
+title: "Hi! This is Zhiqi Zhang."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,7 +24,7 @@ Research Experience
 
 Conference Talks
 =====
-**Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments**
+**Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence**
  - INFORMS Annual Meeting, Indianapolis, IN, 2022 
  - POMS International Meeting, Virtual Conference, 2022
 
