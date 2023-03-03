@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! This is Zhiqi Zhang."
+title: "Zhiqi Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
