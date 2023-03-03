@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student majoring in Supply Chain, Operations and Technology at Olin Business School, Washington University in St. Louis. 
+Hi! This is Zhiqi Zhang. I am a Ph.D. student majoring in Supply Chain, Operations and Technology at Olin Business School, Washington University in St. Louis (WashU). 
 
 My research interests lie in platform operations, machine learning, causal inference, and so on. I am advised by Professor [Dennis Zhang](http://denniszhang.org/?).
 
