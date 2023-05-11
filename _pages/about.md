@@ -20,11 +20,17 @@ Education
 
 Research Experience
 ======
-1. [Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375327), with Zikun Ye, Dennis Zhang, Heng Zhang, Renyu Zhang,submitted.
+1. [Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375327), with Zikun Ye, Dennis Zhang, Heng Zhang, Renyu Zhang, submitted.
+    - Accepted by ACM Conference on Economics and Computation (EC) 2023.
 
 Conference Talks
 =====
+**The Impact of Recommending High-quality Content on Consumption and Production on User-generated content Platforms**
+ - POMS International Meeting, Orlando, 2023(scheduled)
+ 
 **Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence**
+ - MSOM Annual Meeting, Montreal, 2023(scheduled)
+ - POMS International Meeting, Orlando, 2023(scheduled)
  - INFORMS Annual Meeting, Indianapolis, IN, 2022 
  - POMS International Meeting, Virtual Conference, 2022
 
