@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is Zhiqi Zhang. I am a Ph.D. student majoring in Supply Chain, Operations and Technology at Olin Business School, Washington University in St. Louis (WashU). 
+Hi! This is Zhiqi Zhang. I am a Ph.D. student majoring in Supply Chain, Operations, and Technology at Olin Business School, Washington University in St. Louis (WashU). 
 
 My research interests lie in platform operations, machine learning, causal inference, and so on. I am advised by Professor [Dennis Zhang](http://denniszhang.org/?).
 
 Education
 ======
-- Washington University in St. Louis, Ph.D. in Supply Chain, Operations and Technology (2021 – 2027 expected)
+- Washington University in St. Louis, Ph.D. in Supply Chain, Operations, and Technology (2021 – 2026 expected)
 - Shanghai Jiao Tong University, B.Eng. in Industrial Engineering (2016 - 2020)
 - Yale University, Summer Session (Jul. 2018 - Aug. 2018)                          
 
@@ -25,20 +25,20 @@ Research Experience
 
 Conference Talks
 =====
-**The Impact of Recommending High-quality Content on Consumption and Production on User-generated content Platforms**
- - POMS International Meeting, Orlando, 2023(scheduled)
+**The Impact of Recommending High-quality Content on Consumption and Production on User-generated Content Platforms**
+ - POMS International Meeting, Orlando, FL, 2023
  
 **Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence**
- - MSOM Annual Meeting, Montreal, 2023(scheduled)
- - POMS International Meeting, Orlando, 2023(scheduled)
+ - POMS International Meeting, Orlando, FL, 2023
  - INFORMS Annual Meeting, Indianapolis, IN, 2022 
  - POMS International Meeting, Virtual Conference, 2022
 
 Teaching
 ------
+- SCOT 554 Operations Analytics, TA, SP 2023
 - MKT 680 A AI & Machine Learning for Business Applications, TA; FL 2022
 - SCOT 5704 Operations Management, TA; FL 2022
-- SCOT 500D Project Management, TA; FL 2022
+- SCOT 500D Project Management, TA; FL 2022, SP 2023
 
 Contacts
 ------
