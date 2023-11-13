@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is Zhiqi Zhang. I am a Ph.D. student majoring in Supply Chain, Operations, and Technology at Olin Business School, Washington University in St. Louis (WashU). 
+Hi! This is Zhiqi Zhang. I am a Ph.D. candidate majoring in Supply Chain, Operations, and Technology at Olin Business School, Washington University in St. Louis (WashU). 
 
 My research interests lie in platform operations, machine learning, causal inference, and so on. I am advised by Professor [Dennis Zhang](http://denniszhang.org/?).
 
@@ -25,10 +25,14 @@ Research Experience
 
 Conference Talks
 =====
+**Deep Learning for Policy Targeting with Continuous Treatment**
+ - INFORMS Annual Meeting, Phoenix, AZ, 2023
+
 **The Impact of Recommending High-quality Content on Consumption and Production on User-generated Content Platforms**
  - POMS International Meeting, Orlando, FL, 2023
  
 **Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence**
+ - Workshop on Empirical Research in Operations Management, The Wharton School, Philadelphia, PA, 2023
  - POMS International Meeting, Orlando, FL, 2023
  - INFORMS Annual Meeting, Indianapolis, IN, 2022 
  - POMS International Meeting, Virtual Conference, 2022
