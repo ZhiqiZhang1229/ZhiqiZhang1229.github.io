@@ -18,29 +18,34 @@ Education
 - Shanghai Jiao Tong University, B.Eng. in Industrial Engineering (2016 - 2020)
 - Yale University, Summer Session (Jul. 2018 - Aug. 2018)                          
 
-Research Experience
+Papers
 ======
 1. [Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375327), with Zikun Ye, Dennis Zhang, Heng Zhang, Renyu Zhang, submitted.
     - Accepted by ACM Conference on Economics and Computation (EC) 2023.
 
+2. The Impacts of Recommendations on Consumption and Creation on Online Content-Sharing Platforms, with Zhiyu Zeng, Dennis Zhang, Tat Chan, work in progress.
+
+3. Deep Learning for Policy Targeting with Continuous Treatment, with Zhiyu Zeng, Ruohan Zhan, Dennis Zhang, work in progress. 
+
 Conference Talks
 =====
 **Deep Learning for Policy Targeting with Continuous Treatment**
+ - POMS Annual Meeting, Minneapolis, MN, 2024(scheduled)
  - INFORMS Annual Meeting, Phoenix, AZ, 2023
 
 **The Impact of Recommending High-quality Content on Consumption and Production on User-generated Content Platforms**
- - POMS International Meeting, Orlando, FL, 2023
+ - POMS Annual Meeting, Orlando, FL, 2023
  
 **Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence**
  - Workshop on Empirical Research in Operations Management, The Wharton School, Philadelphia, PA, 2023
- - POMS International Meeting, Orlando, FL, 2023
+ - POMS Annual Meeting, Orlando, FL, 2023
  - INFORMS Annual Meeting, Indianapolis, IN, 2022 
- - POMS International Meeting, Virtual Conference, 2022
+ - POMS Annual Meeting, Virtual Conference, 2022
 
 Teaching
 ------
 - SCOT 554 Operations Analytics, TA, SP 2023
-- MKT 680 A AI & Machine Learning for Business Applications, TA; FL 2022
+- MKT 680 A AI & Machine Learning for Business Applications, TA; FL 2022, FL 2023
 - SCOT 5704 Operations Management, TA; FL 2022
 - SCOT 500D Project Management, TA; FL 2022, SP 2023
 
