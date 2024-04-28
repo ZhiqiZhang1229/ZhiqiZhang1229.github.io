@@ -30,7 +30,7 @@ Papers
 Conference Talks
 =====
 **Deep Learning for Policy Targeting with Continuous Treatment**
- - POMS Annual Meeting, Minneapolis, MN, 2024(scheduled)
+ - POMS Annual Meeting, Minneapolis, MN, 2024
  - INFORMS Annual Meeting, Phoenix, AZ, 2023
 
 **The Impact of Recommending High-quality Content on Consumption and Production on User-generated Content Platforms**
