@@ -20,16 +20,18 @@ Education
 
 Papers
 ======
-1. [Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375327), with Zikun Ye, Dennis Zhang, Heng Zhang, Renyu Zhang, submitted.
+1. [Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375327), with Zikun Ye, Dennis Zhang, Heng Zhang, Renyu Zhang, major revision in **Management Science**.
     - Accepted by ACM Conference on Economics and Computation (EC) 2023.
+ 
+2. Deep Learning for Policy Targeting with Continuous Treatment, with Zhiyu Zeng, Ruohan Zhan, Dennis Zhang, work in progress.
 
-2. The Impacts of Recommendations on Consumption and Creation on Online Content-Sharing Platforms, with Zhiyu Zeng, Dennis Zhang, Tat Chan, work in progress.
+3. The Impacts of Recommendations on Consumption and Creation on Online Content-Sharing Platforms, with Zhiyu Zeng, Dennis Zhang, Tat Chan, work in progress.
 
-3. Deep Learning for Policy Targeting with Continuous Treatment, with Zhiyu Zeng, Ruohan Zhan, Dennis Zhang, work in progress. 
 
 Conference Talks
 =====
 **Deep Learning for Policy Targeting with Continuous Treatment**
+ - MSOM Annual Meeting, Minneapolis, MN, 2024
  - POMS Annual Meeting, Minneapolis, MN, 2024
  - INFORMS Annual Meeting, Phoenix, AZ, 2023
 
@@ -44,6 +46,7 @@ Conference Talks
 
 Teaching
 ------
+- SCOT 654 Research Topics in Supply Chain, Guest Lecturer, SP2024
 - SCOT 554 Operations Analytics, TA, SP 2023
 - MKT 680 A AI & Machine Learning for Business Applications, TA; FL 2022, FL 2023
 - SCOT 5704 Operations Management, TA; FL 2022
