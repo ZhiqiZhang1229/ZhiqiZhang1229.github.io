@@ -31,6 +31,8 @@ Papers
 Conference Talks
 =====
 **Deep Learning for Policy Targeting with Continuous Treatment**
+ - INFORMS Annual Meeting, Seattle, WA, 2024 (scheduled)
+ - CODE@MIT, Boston, MA, 2024 (scheduled)
  - MSOM Annual Meeting, Minneapolis, MN, 2024
  - POMS Annual Meeting, Minneapolis, MN, 2024
  - INFORMS Annual Meeting, Phoenix, AZ, 2023
@@ -46,11 +48,16 @@ Conference Talks
 
 Teaching
 ------
-- SCOT 654 Research Topics in Supply Chain, Guest Lecturer, SP2024
-- SCOT 554 Operations Analytics, TA, SP 2023
-- MKT 680 A AI & Machine Learning for Business Applications, TA; FL 2022, FL 2023
-- SCOT 5704 Operations Management, TA; FL 2022
-- SCOT 500D Project Management, TA; FL 2022, SP 2023
+- PhD Core:
+  - SCOT 654 Research Topics in Supply Chain, Guest Lecturer; SP2024
+  - SCOT 652 Dynamic Programming, TA; FL2024
+  - MKT 680 A AI & Machine Learning for Business Applications, TA; FL2022, FL2023, FL2024
+- Master Core:
+  - SCOT 531  Supply Chain Finance, TA; SP2024
+- Undergraduate Core:
+  - SCOT 554 Operations Analytics, TA; SP2023
+  - SCOT 5704 Operations Management, TA; FL2022
+  - SCOT 500D Project Management, TA; FL2022, SP2023
 
 Contacts
 ------
