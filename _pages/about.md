@@ -32,7 +32,7 @@ Conference Talks
 =====
 **Deep Learning for Policy Targeting with Continuous Treatment**
  - INFORMS Annual Meeting, Seattle, WA, 2024 (scheduled)
- - CODE@MIT, Boston, MA, 2024 (scheduled)
+ - CODE@MIT, Cambridge, MA, 2024 (scheduled)
  - MSOM Annual Meeting, Minneapolis, MN, 2024
  - POMS Annual Meeting, Minneapolis, MN, 2024
  - INFORMS Annual Meeting, Phoenix, AZ, 2023
