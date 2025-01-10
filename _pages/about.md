@@ -27,10 +27,12 @@ Papers
 
 3. [The Impacts of Recommendations on Consumption and Creation on Online Content-Sharing Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915562), with Zhiyu Zeng, Dennis Zhang, Tat Chan.
 
+4. Bias in Offline Retailing Experiment: Evidence and Solution, with Jiayi Zhang, Ruohan Zhan, Dennis Zhang, work in progress.
 Conference Talks
 =====
 **Deep Learning for Policy Targeting with Continuous Treatment**
  - POMS Annual Meeting, Atlanta, GA, 2025 (scheduled)
+ - POMS-HK International Conference, Hong Kong, 2025
  - INFORMS Annual Meeting, Seattle, WA, 2024 
  - CODE@MIT, Cambridge, MA, 2024 
  - MSOM Annual Meeting, Minneapolis, MN, 2024
