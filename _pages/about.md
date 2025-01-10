@@ -61,6 +61,11 @@ Teaching
   - SCOT 554 Operations Analytics, TA; SP2023
   - SCOT 5704 Operations Management, TA; FL2022
   - SCOT 500D Project Management, TA; FL2022, SP2023
+ 
+
+Academic Services
+------
+Session Chair: 2024 INFORMS Annual Meeting, 2025 POMS-HK International Conference
 
 Contacts
 ------
