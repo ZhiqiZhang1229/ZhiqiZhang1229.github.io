@@ -23,7 +23,7 @@ Papers
 1. [Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375327), with Zikun Ye, Dennis Zhang, Heng Zhang, Renyu Zhang, major revision in **Management Science**.
     - Accepted by ACM Conference on Economics and Computation (EC) 2023.
  
-2. Deep Learning for Policy Targeting with Continuous Treatment, with Zhiyu Zeng, Ruohan Zhan, Dennis Zhang, work in progress.
+2. Personalized Policy Learning through Discrete Experimentation: Theory and Empirical Evidence, with Zhiyu Zeng, Ruohan Zhan, Dennis Zhang, work in progress.
 
 3. [The Impacts of Recommendations on Consumption and Creation on Online Content-Sharing Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915562), with Zhiyu Zeng, Dennis Zhang, Tat Chan.
 
@@ -31,7 +31,7 @@ Papers
 
 Conference Talks
 =====
-**Deep Learning for Policy Targeting with Continuous Treatment**
+**Personalized Policy Learning through Discrete Experimentation: Theory and Empirical Evidence**
  - POMS Annual Meeting, Atlanta, GA, 2025 (scheduled)
  - POMS-HK International Conference, Hong Kong, 2025
  - INFORMS Annual Meeting, Seattle, WA, 2024 
