@@ -14,7 +14,7 @@ My research interests lie in platform operations, machine learning, causal infer
 
 Education
 ======
-- Washington University in St. Louis, Ph.D. in Supply Chain, Operations, and Technology (2021 – 2026 expected)
+- Washington University in St. Louis, Ph.D. in Supply Chain, Operations, and Technology (2021 – now)
 - Shanghai Jiao Tong University, B.Eng. in Industrial Engineering (2016 - 2020)
 - Yale University, Summer Session (Jul. 2018 - Aug. 2018)                          
 
@@ -25,7 +25,7 @@ Papers
  
 2. Personalized Policy Learning through Discrete Experimentation: Theory and Empirical Evidence, with Zhiyu Zeng, Ruohan Zhan, Dennis Zhang, work in progress.
 
-3. [The Impacts of Recommendations on Consumption and Creation on Online Content-Sharing Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915562), with Zhiyu Zeng, Dennis Zhang, Tat Chan.
+3. [The Impacts of Recommendations on Consumption and Creation on Online Content-Sharing Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915562), with Zhiyu Zeng, Dennis Zhang, Tat Chan, working paper to be submitted.
 
 4. Bias in Offline Retailing Experiment: Evidence and Solution, with Jiayi Zhang, Ruohan Zhan, Dennis Zhang, work in progress.
 
