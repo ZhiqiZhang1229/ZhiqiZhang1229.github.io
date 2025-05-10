@@ -12,6 +12,8 @@ Hi! This is Zhiqi Zhang. I am a Ph.D. candidate majoring in Supply Chain, Operat
 
 My research interests lie in platform operations, machine learning, causal inference, and so on. I am advised by Professor [Dennis Zhang](http://denniszhang.org/?).
 
+**I will be on the 2025-2026 academic job market for a tenure-track faculty position.**
+
 Education
 ======
 - Washington University in St. Louis, Ph.D. in Supply Chain, Operations, and Technology (2021 – now)
