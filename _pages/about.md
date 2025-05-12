@@ -36,7 +36,7 @@ Conference Talks
 =====
 **Personalized Policy Learning through Discrete Experimentation: Theory and Empirical Evidence**
  - INFORMS Annual Meeting, Atlanta, GA, 2025 (scheduled)
- - POMS Annual Meeting, Atlanta, GA, 2025 (scheduled)
+ - POMS Annual Meeting, Atlanta, GA, 2025 
  - POMS-HK International Conference, Hong Kong, 2025
  - INFORMS Annual Meeting, Seattle, WA, 2024 
  - CODE@MIT, Cambridge, MA, 2024 
