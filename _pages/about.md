@@ -25,7 +25,7 @@ Papers
 1. [Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375327), with Zikun Ye, Dennis Zhang, Heng Zhang, Renyu Zhang, **Management Science**(2025).
     - Accepted by ACM Conference on Economics and Computation (EC) 2023.
  
-2. Personalized Policy Learning through Discrete Experimentation: Theory and Empirical Evidence, with Zhiyu Zeng, Ruohan Zhan, Dennis Zhang, work in progress.
+2. [Personalized Policy Learning through Discrete Experimentation: Theory and Empirical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5277082), with Zhiyu Zeng, Ruohan Zhan, Dennis Zhang.
    - Winner of Buchan Prize Paper Competition, Olin Business School, 2025
 
 4. [The Impact of Recommender Systems on Content Consumption and Production: Evidence from Field Experiments and Structural Modeling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915562), with Zhiyu Zeng, Tat Chan, Dennis Zhang, submitted to **Management Science**.
