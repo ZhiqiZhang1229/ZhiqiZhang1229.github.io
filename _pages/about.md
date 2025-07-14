@@ -10,7 +10,8 @@ redirect_from:
 
 Hi! This is Zhiqi Zhang. I am a Ph.D. candidate majoring in Supply Chain, Operations, and Technology at Olin Business School, Washington University in St. Louis (WashU). 
 
-My research interests lie in platform operations, machine learning, causal inference, and so on. I am advised by Professor [Dennis Zhang](http://denniszhang.org/?).
+My research interests lie in Digital Platforms, Artificial Intelligence, Machine Learning, Causal Inference, Field
+Experiment, Structural Model, and so on. I am advised by Professor [Dennis Zhang](http://denniszhang.org/?).
 
 **I will be on the 2025-2026 academic job market for a tenure-track faculty position.**
 
@@ -60,6 +61,7 @@ Teaching
   - SCOT 652 Dynamic Programming, TA; FL2024
   - MKT 680 A AI & Machine Learning for Business Applications, TA; FL2022, FL2023, FL2024
 - Master Core:
+  - DAT 301 Data Analytics in Python, TA; SP2025
   - SCOT 531  Supply Chain Finance, TA; SP2024
 - Undergraduate Core:
   - SCOT 554 Operations Analytics, TA; SP2023
@@ -69,7 +71,8 @@ Teaching
 
 Academic Services
 ------
-Session Chair: 2024,2025 INFORMS Annual Meeting, 2025 POMS-HK International Conference
+- Session Chair: 2024,2025 INFORMS Annual Meeting, 2025 POMS-HK International Conference
+- Reviewer: 2025 INFORMS workshop on Data Science
 
 Contacts
 ------
