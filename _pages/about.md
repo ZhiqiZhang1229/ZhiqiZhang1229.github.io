@@ -72,6 +72,7 @@ Academic Services
 ------
 - Session Chair: 2024,2025 INFORMS Annual Meeting, 2025 POMS-HK International Conference
 - Reviewer: 2025 INFORMS workshop on Data Science
+
 Contacts
 ------
 Email: z.zhiqi@wustl.edu
