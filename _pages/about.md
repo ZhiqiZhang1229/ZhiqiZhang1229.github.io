@@ -71,7 +71,7 @@ Teaching
 Academic Services
 ------
 - Session Chair: 2024,2025 INFORMS Annual Meeting, 2025 POMS-HK International Conference
-- Reviewer: 2025 INFORMS workshop on Data Science
+- Reviewer: 2025 INFORMS workshop on Data Science, 2025 INFORMS Behavioral Operations Management Section Best Working Paper Competition
 
 Contacts
 ------
