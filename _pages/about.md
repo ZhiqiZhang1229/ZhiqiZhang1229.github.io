@@ -29,8 +29,9 @@ Papers
    - Winner of Buchan Prize Paper Competition, Olin Business School, 2025
 
 4. [The Impact of Recommender Systems on Content Consumption and Production: Evidence from Field Experiments and Structural Modeling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915562), with Zhiyu Zeng, Tat Chan, Dennis Zhang, major revision at **Management Science**.
+   - Finalist for the Service Science Best Cluster Paper, 2025
 
-5. Bias in Offline Retailing Experiment: Evidence and Solution, with Jiayi Zhang, Ruohan Zhan, Dennis Zhang, work in progress.
+6. Bias in Offline Retailing Experiment: Evidence and Solution, with Jiayi Zhang, Ruohan Zhan, Dennis Zhang, work in progress.
 
 Conference Talks
 =====
