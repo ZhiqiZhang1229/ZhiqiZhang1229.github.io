@@ -37,7 +37,12 @@ Conference Talks
 =====
 **Personalized Policy Learning through Discrete Experimentation: Theory and Empirical Evidence**
  - INFORMS Annual Meeting, Atlanta, GA, 2025 (scheduled)
-     - Job Market Showcase Cluster, Monday, October 27, 1:15 PM - 2:30 PM, Bldg A Lvl 3 A312.
+     - Monday, October 27 | 1:15 PM – 2:30 PM
+       - Session Title: Design and Analysis of Experiments
+       - Room: Building A, Level 3, A312 (Job Market Showcase)
+     - Tuesday, October 28 | 1:15 PM – 2:30 PM
+       - Session Title: Learning and Sequential Decision-Making
+       - Room: Building A, Level 4, A408
  - POMS Annual Meeting, Atlanta, GA, 2025 
  - POMS-HK International Conference, Hong Kong, 2025
  - INFORMS Annual Meeting, Seattle, WA, 2024 
