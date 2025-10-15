@@ -22,7 +22,7 @@ Education
 
 Papers
 ======
-1. [Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375327](https://doi.org/10.1287/mnsc.2024.04625)), with Zikun Ye, Dennis Zhang, Heng Zhang, Renyu Zhang, **Management Science**(2025).
+1. [Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence](https://doi.org/10.1287/mnsc.2024.04625), with Zikun Ye, Dennis Zhang, Heng Zhang, Renyu Zhang, **Management Science**(2025).
     - Accepted by ACM Conference on Economics and Computation (EC) 2023.
  
 2. [Personalized Policy Learning through Discrete Experimentation: Theory and Empirical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5277082), with Zhiyu Zeng, Ruohan Zhan, Dennis Zhang. _**Job Market Paper**_.
