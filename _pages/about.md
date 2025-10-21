@@ -37,18 +37,18 @@ Conference Talks
 =====
 **Personalized Policy Learning through Discrete Experimentation: Theory and Empirical Evidence**
  - INFORMS Annual Meeting, Atlanta, GA, 2025 (scheduled)
-     - Saturday, October 25 | 9:30 AM - 11:00 AM
+     - Saturday, **October 25**, **9:30 AM - 11:00 AM**
        - CIST, Session Title: Platform Algorithms and Dynamics
-       - Room: Hilton Atlanta, Room  212/213
-     - Saturday, October 25 | 3:15 PM - 4:30 PM
+       - Room: Hilton Atlanta, **Room  212/213**
+     - Saturday, **October 25**, **3:15 PM - 4:30 PM**
        - Workshop on Data Science, Session Title: Causality and Counterfactual Prediction #3
-       - Room: Georgia World Congress Center, Room B306
-     - Monday, October 27 | 1:15 PM – 2:30 PM
+       - Room: Georgia World Congress Center, **Room B306**
+     - Monday, **October 27**, **1:15 PM – 2:30 PM**
        - Job Market Showcase, Session Title: Design and Analysis of Experiments
-       - Room: Building A, Level 3, A312 
-     - Tuesday, October 28 | 1:15 PM – 2:30 PM
+       - Room: **Building A, Level 3, A312 **
+     - Tuesday, **October 28**, **1:15 PM – 2:30 PM**
        - Session Title: Learning and Sequential Decision-Making
-       - Room: Building A, Level 4, A408
+       - Room: **Building A, Level 4, A408**
  - POMS Annual Meeting, Atlanta, GA, 2025 
  - POMS-HK International Conference, Hong Kong, 2025
  - INFORMS Annual Meeting, Seattle, WA, 2024 
