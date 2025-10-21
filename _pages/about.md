@@ -45,7 +45,7 @@ Conference Talks
        - Room: Georgia World Congress Center, **Room B306**
      - Monday, **October 27**, **1:15 PM – 2:30 PM**
        - Job Market Showcase, Session Title: Design and Analysis of Experiments
-       - Room: **Building A, Level 3, A312 **
+       - Room: **Building A, Level 3, A312**
      - Tuesday, **October 28**, **1:15 PM – 2:30 PM**
        - Session Title: Learning and Sequential Decision-Making
        - Room: **Building A, Level 4, A408**
