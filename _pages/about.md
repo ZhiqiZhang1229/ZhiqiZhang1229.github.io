@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! This is Zhiqi Zhang. I am a Ph.D. candidate majoring in Supply Chain, Operations, and Technology at Olin Business School, Washington University in St. Louis (WashU). 
 
-My research interests lie in Digital Platforms, Artificial Intelligence, Machine Learning, Causal Inference, Field Experiment, Structural Model, and so on. I am advised by Professor [Dennis Zhang](http://denniszhang.org/?).
+My research explores how AI-driven causal inference can enhance decision-making in digital platforms. My research interests include Digital Platforms, Artificial Intelligence, Machine Learning, Causal Inference, Field Experiments, and Structural Modeling. I am advised by Professor [Dennis Zhang](http://denniszhang.org/?).
 
 **I will be on the 2025-2026 academic job market for a tenure-track faculty position.**
 
@@ -36,19 +36,7 @@ Papers
 Conference Talks
 =====
 **Personalized Policy Learning through Discrete Experimentation: Theory and Empirical Evidence**
- - INFORMS Annual Meeting, Atlanta, GA, 2025 (scheduled)
-     - Saturday, **October 25**, **9:30 AM - 11:00 AM**
-       - CIST, Session Title: Platform Algorithms and Dynamics
-       - Room: Hilton Atlanta, **Room  212/213**
-     - Saturday, **October 25**, **3:15 PM - 4:30 PM**
-       - Workshop on Data Science, Session Title: Causality and Counterfactual Prediction #3
-       - Room: Georgia World Congress Center, **Room B306**
-     - Monday, **October 27**, **1:15 PM – 2:30 PM**
-       - Job Market Showcase, Session Title: Design and Analysis of Experiments
-       - Room: **Building A, Level 3, A312**
-     - Tuesday, **October 28**, **1:15 PM – 2:30 PM**
-       - Session Title: Learning and Sequential Decision-Making
-       - Room: **Building A, Level 4, A408**
+ - INFORMS Annual Meeting, Atlanta, GA, 2025 
  - POMS Annual Meeting, Atlanta, GA, 2025 
  - POMS-HK International Conference, Hong Kong, 2025
  - INFORMS Annual Meeting, Seattle, WA, 2024 
