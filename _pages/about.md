@@ -12,7 +12,7 @@ Hi! This is Zhiqi Zhang. I am a Ph.D. candidate majoring in Supply Chain, Operat
 
 My research explores how AI-driven causal inference can enhance decision-making in digital platforms. My research interests include Digital Platforms, Artificial Intelligence, Machine Learning, Causal Inference, Field Experiments, and Structural Modeling. I am advised by Professor [Dennis Zhang](http://denniszhang.org/?).
 
-**I will be on the 2025-2026 academic job market for a tenure-track faculty position.**
+
 
 Education
 ======
