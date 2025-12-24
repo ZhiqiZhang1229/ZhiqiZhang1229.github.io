@@ -80,7 +80,7 @@ Contacts
 ------
 Email: z.zhiqi@wustl.edu
 
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=njOsa3WE4suxaEERhuB6J6owJCFqI_lcR_x68gci2TU&cl=ffffff&w=a"></script>
 
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=4f9b9a&w=a&t=tt&d=njOsa3WE4suxaEERhuB6J6owJCFqI_lcR_x68gci2TU&co=ffffff&cmo=126d3b&cmn=cb0821&ct=808080'></script> -->
 
