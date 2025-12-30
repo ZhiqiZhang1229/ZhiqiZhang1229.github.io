@@ -12,6 +12,7 @@ Hi! This is Zhiqi Zhang. I am a Ph.D. candidate majoring in Supply Chain, Operat
 
 My research explores how AI-driven causal inference can enhance decision-making in digital platforms. My research interests include Digital Platforms, Artificial Intelligence, Machine Learning, Causal Inference, Field Experiments, and Structural Modeling. I am advised by Professor [Dennis Zhang](http://denniszhang.org/?).
 
+I will join the Department of Marketing at the University of Notre Dame as an Assistant Professor in the summer of 2026.
 
 
 Education
