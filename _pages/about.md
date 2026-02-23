@@ -72,7 +72,7 @@ Teaching
 
 Academic Services
 ------
-- **Journal Reviewer**: Manufacturing and Service Operations Management
+- **Journal Reviewer**: Manufacturing and Service Operations Management, Operations Research, Management Science
 - **Session Chair**: 2024,2025 INFORMS Annual Meeting, 2025 POMS-HK International Conference
 - **Judge**: 2025 INFORMS workshop on Data Science, 2025 INFORMS Behavioral Operations Management Section Best Working Paper Competition
 
