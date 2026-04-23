@@ -34,7 +34,7 @@ Papers
 
 4. [Bias Correction in Offline Retailing Experiment: Theory and Empirical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6030534), with Jiayi Zhang, Ruohan Zhan, Dennis Zhang. *Submitted*.
 
-5. [Behavioral Transfer in AI Agents: Evidence and Privacy Implications](https://arxiv.org/abs/2602.05099), with Shilei Luo, Hengchen Dai, Dennis Zhang.
+5. [Behavioral Transfer in AI Agents: Evidence and Privacy Implications](https://arxiv.org/abs/2604.19925), with Shilei Luo, Hengchen Dai, Dennis Zhang.
 
 Conference Talks
 =====
