@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhiqi Zhang"
-description              : &description "Ph.D. candidate, Supply Chain, Operations, and Technology, Olin Business School, Washington University in St. Louis"
+description              : &description "Assistant Professor, Department of Marketing, University of Notre Dame"
 url                      : https://zhiqizhang1229.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhiqizhang1229/zhiqizhang1229.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhiqi Zhang(张祉淇)"
   avatar           : "IMG_4246.JPG"
-  bio              : "PhD Candidate at Washington University in St. Louis"
-  location         : "St. Louis"
-  employer         :
+  bio              : "Assistant Professor of Marketing at the University of Notre Dame"
+  location         : "South Bend, IN"
+  employer         : "University of Notre Dame"
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=g8zcV2oAAAAJ&hl=en"
-  email            : "z.zhiqi@wustl.edu"
+  email            : "zzhang52@nd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
