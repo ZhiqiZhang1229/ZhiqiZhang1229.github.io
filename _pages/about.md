@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is Zhiqi Zhang. I am a Ph.D. candidate majoring in Supply Chain, Operations, and Technology at Olin Business School, Washington University in St. Louis (WashU). 
+Hi! This is Zhiqi Zhang. I am an Assistant Professor in the Department of Marketing at the University of Notre Dame. I received my Ph.D. in Supply Chain, Operations, and Technology from Olin Business School, Washington University in St. Louis (WashU), where I was advised by Professor [Dennis Zhang](http://denniszhang.org/?).
 
-My research explores how AI-driven causal inference can enhance decision-making in digital platforms. My research interests include Digital Platforms, Artificial Intelligence, Machine Learning, Causal Inference, Field Experiments, and Structural Modeling. I am advised by Professor [Dennis Zhang](http://denniszhang.org/?).
+**Research Focus.** My research develops and applies AI-driven causal inference to improve decision-making on digital platforms. I combine large-scale field experiments, machine learning, and structural modeling to study how firms can design better experiments, learn personalized policies, and understand the impact of algorithmic systems.
 
-I will join the Department of Marketing at the University of Notre Dame as an Assistant Professor in the summer of 2026.
+My research interests include Digital Platforms, Artificial Intelligence, Machine Learning, Causal Inference, Field Experiments, and Structural Modeling.
 
 
 Education
