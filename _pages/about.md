@@ -79,7 +79,7 @@ Academic Services
 
 Contacts
 ------
-Email: zzhang52@nd.edu
+Email: zhiqizhang@nd.edu
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=njOsa3WE4suxaEERhuB6J6owJCFqI_lcR_x68gci2TU&cl=ffffff&w=a"></script>
 
