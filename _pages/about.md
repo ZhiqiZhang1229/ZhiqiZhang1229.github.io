@@ -26,6 +26,7 @@ Papers
  
 2. [Personalized Policy Learning through Discrete Experimentation: Theory and Empirical Evidence](https://arxiv.org/abs/2602.05099), with Zhiyu Zeng, Ruohan Zhan, Dennis Zhang.  *Submitted*.
    - Winner of Buchan Prize Paper Competition, Olin Business School, 2025
+   - Short version appeared in International Conference on Machine Learning (ICML) 2026.
 
 3. [The Impact of Recommender Systems on Content Consumption and Production: Evidence from Field Experiments and Structural Modeling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915562), with Zhiyu Zeng, Tat Chan, Dennis Zhang, major revision at **Management Science**.
    - First place of the Service Science Best Cluster Paper, 2025
@@ -72,7 +73,7 @@ Teaching
 
 Academic Services
 ------
-- **Journal Reviewer**: Manufacturing and Service Operations Management, Operations Research, Management Science
+- **Journal Reviewer**: Management Science, Journal of Marketing Research, Manufacturing and Service Operations Management, Operations Research 
 - **Session Chair**: 2024,2025 INFORMS Annual Meeting, 2025 POMS-HK International Conference
 - **Judge**: 2025 INFORMS workshop on Data Science, 2025 INFORMS Behavioral Operations Management Section Best Working Paper Competition
 
