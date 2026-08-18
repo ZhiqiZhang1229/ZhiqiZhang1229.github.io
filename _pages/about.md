@@ -16,8 +16,7 @@ My research develops and applies AI-driven causal inference to improve decision-
 Education
 ======
 - Washington University in St. Louis, Ph.D. in Supply Chain, Operations, and Technology (2021 – 2026)
-- Shanghai Jiao Tong University, B.Eng. in Industrial Engineering (2016 - 2020)
-- Yale University, Summer Session (Jul. 2018 - Aug. 2018)                          
+- Shanghai Jiao Tong University, B.Eng. in Industrial Engineering (2016 - 2020)                         
 
 Papers
 ======
