@@ -26,7 +26,7 @@ Papers
 2. [The Impact of Recommender Systems on Content Consumption and Production: Evidence from Field Experiments and Structural Modeling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915562), with Zhiyu Zeng, Tat Chan, Dennis Zhang, Forthcoming at **Management Science (2026)**.
    - First place of the Service Science Best Cluster Paper, 2025
      
-3.    [Personalized Policy Learning through Discrete Experimentation: Theory and Empirical Evidence](https://arxiv.org/abs/2602.05099), with Zhiyu Zeng, Ruohan Zhan, Dennis Zhang.  *Submitted*.
+3. [Personalized Policy Learning through Discrete Experimentation: Theory and Empirical Evidence](https://arxiv.org/abs/2602.05099), with Zhiyu Zeng, Ruohan Zhan, Dennis Zhang.  *Submitted*.
    - Winner of Buchan Prize Paper Competition, Olin Business School, 2025
    - Short version appeared in International Conference on Machine Learning (ICML) 2026.
 
