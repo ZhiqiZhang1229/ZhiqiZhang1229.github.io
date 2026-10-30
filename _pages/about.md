@@ -20,7 +20,7 @@ Education
 
 Papers
 ======
-1. [Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence](https://doi.org/10.1287/mnsc.2024.04625), with Zikun Ye, Dennis Zhang, Heng Zhang, Renyu Zhang, **Management Science**(2025).
+1. [Deep Learning Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence](https://doi.org/10.1287/mnsc.2024.04625), with Zikun Ye, Dennis Zhang, Heng Zhang, Renyu Zhang, **Management Science (2025)**.
     - Accepted by ACM Conference on Economics and Computation (EC) 2023.
 
 2. [The Impact of Recommender Systems on Content Consumption and Production: Evidence from Field Experiments and Structural Modeling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915562), with Zhiyu Zeng, Tat Chan, Dennis Zhang, Forthcoming at **Management Science (2026)**.
@@ -28,11 +28,11 @@ Papers
      
 3. [Personalized Policy Learning through Discrete Experimentation: Theory and Empirical Evidence](https://arxiv.org/abs/2602.05099), with Zhiyu Zeng, Ruohan Zhan, Dennis Zhang.  *Submitted*.
    - Winner of Buchan Prize Paper Competition, Olin Business School, 2025
-   - Short version appeared in International Conference on Machine Learning (ICML) 2026.
+   - Short version appeared in **International Conference on Machine Learning (ICML) 2026**.
 
-4. [Bias Correction in Offline Retailing Experiment: Theory and Empirical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6030534), with Jiayi Zhang, Ruohan Zhan, Dennis Zhang. *Submitted*.
+4. [Bias Correction in Offline Retailing Experiment: Theory and Empirical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6030534), with Jiayi Zhang, Ruohan Zhan, Dennis Zhang. 
 
-5. [Behavioral Transfer in AI Agents: Evidence and Privacy Implications](https://arxiv.org/abs/2604.19925), with Shilei Luo, Hengchen Dai, Dennis Zhang.
+5. [Behavioral Transfer in AI Agents: Evidence and Privacy Implications](https://arxiv.org/abs/2604.19925), with Shilei Luo, Hengchen Dai, Dennis Zhang. *Submitted*.
 
 Conference Talks
 =====
